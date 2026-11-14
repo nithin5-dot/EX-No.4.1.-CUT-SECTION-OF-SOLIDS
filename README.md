@@ -11,36 +11,47 @@ To create the solid model from given drawing and section the solid model
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+1.	Open new file 
+2.  Select sketch icon.
+3.  Select the plane for sketching. 
+4.	First draw bottom side
+5.	Select the circle and draw a circle as the diameter in the input picture
+6.	Use the tools in create option(line,circle,etc,.)
 
-![image](https://user-images.githubusercontent.com/113594316/198825274-c6a8d3ee-fb19-4641-b915-8d2e000c40a8.png)
+<img width="492" height="660" alt="Screenshot 2026-11-14 235834" src="https://github.com/user-attachments/assets/94b0e609-bfe0-47e9-a466-12cb13e9182e" />
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198825282-0d3de4b8-b6d9-446a-ae2a-461955057399.png)
+7. Use the constrints option to tangent the circle and line
 
-5.	Use inspect feature to measure the dimensions of sketch.
+<img width="318" height="481" alt="Screenshot 2026-11-15 000515" src="https://github.com/user-attachments/assets/5d30992c-0b10-498a-8444-f76df197e28c" />
 
-![image](https://user-images.githubusercontent.com/113594316/198825301-194365b4-69d2-42ad-8545-a68d3ca1f442.png)
+8. Use the option like trim, chamfer tools to correct the bottom part
+9. Use any option to Modify the part
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+   <img width="232" height="412" alt="Screenshot 2026-11-15 000049" src="https://github.com/user-attachments/assets/62a822e0-8692-48d4-b8e0-d0add2934d2e" />
+ 
 
-![image](https://user-images.githubusercontent.com/113594316/198825314-b90f6aba-da26-4f0d-8d61-a03e8ad0d765.png)
+10.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-7.Use extrude option to convert 3D model from sketch
+<img width="187" height="110" alt="Screenshot 2026-11-15 000756" src="https://github.com/user-attachments/assets/0eb08dee-bd93-494a-a7bb-b1c6bc4ada70" />
 
-![image](https://user-images.githubusercontent.com/113594316/198825328-205fac21-1322-4d67-894b-6fd92e454e26.png)
 
-8.Use revolve option to convert 2D to 3D.
+11.Use extrude option and extrude the bottom part for 10mm
 
-![image](https://user-images.githubusercontent.com/113594316/198825337-455049de-f053-48b8-9dd0-ebeb189c0dde.png)
+<img width="1342" height="721" alt="Screenshot 2026-11-15 001409" src="https://github.com/user-attachments/assets/86ed5de3-674e-4ab9-a6a5-45effe270863" />
+
+12.Select the plane to create the top part
+
+<img width="857" height="562" alt="Screenshot 2026-11-15 002233" src="https://github.com/user-attachments/assets/4c8f47e6-362d-4f4a-88e0-19c2225c0a25" />
+
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+
+<img width="781" height="621" alt="Screenshot 2026-11-15 001712" src="https://github.com/user-attachments/assets/6eeec686-3245-43fc-bbee-c64623543c13" />
+
 
 ## RESULT:
 
